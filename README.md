@@ -1,2 +1,2 @@
 # config-server
-serves the configuration files for my projects
+Has configuration files for some of my projects that needs externalized configuration
